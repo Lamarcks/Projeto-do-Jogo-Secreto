@@ -192,8 +192,6 @@ Projeto desenvolvido para fins de estudo e prática de lógica de programação.
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Python, Dados, Inteligência Artificial e Cloud Computing**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lamarcks-181717?style=for-the-badge\&logo=github)](https://github.com/Lamarcks)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ihago%20Lamarcks-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ihago-lamarcks1/)
 
 ---
