@@ -4,7 +4,7 @@
 
 ### Projeto de Lógica de Programação com JavaScript
 
-Projeto desenvolvido durante meus estudos na **Alura + Oracle Next Education (ONE)**, com foco na aplicação prática dos fundamentos de **lógica de programação e JavaScript**.
+Primeiro Projeto desenvolvido durante meus estudos na **Alura + Oracle Next Education (ONE)**, com foco na aplicação prática dos fundamentos de **lógica de programação e JavaScript**.
 
 <br>
 
